@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello! 👋
 
 ![Logo](https://github.com/wreeten/enjohneering/blob/main/imgs/enjohneering.png)
 <!-- **wreeten/wreeten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
