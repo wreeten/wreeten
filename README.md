@@ -9,4 +9,4 @@
 - 🌱 I'm currently learning Python, VHDL, and Arduino
 - 👯 I’m looking to collaborate on harnessing Hydrogen Fuel Cells
 - 📫 How to reach me: wreeten@gmail.com
-- ⚡ Fun fact: I was born and raised in a sugar cane farm, and was raised in America to pursue Nursing. Close to finishing nursing school, I had a change in career.
+- ⚡ Fun fact: I was born and raised in a sugar cane farm, and was grew up in America to pursue Nursing. Close to finishing nursing school, I had a change in career.
